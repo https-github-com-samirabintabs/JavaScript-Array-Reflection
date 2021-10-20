@@ -1,2 +1,8 @@
-@import "colors";
-@import "mixins";
+@import "partials/variables",
+        "partials/body",
+        "partials/header",
+        "partials/image",
+        "partials/form",
+        "partials/saved",
+        "partials/popups",
+        "partials/queries";
