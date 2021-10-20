@@ -34,7 +34,7 @@ button {
   line-height: 1;
   font-size: 2.5rem;
   font-weight: 600;
-  text-align: center;
+  text-align: left;
   color: #00C6C0;
 }
 
@@ -119,7 +119,7 @@ button {
   line-height: 2;
   font-size: 2rem;
   font-weight: 400;
-  color: white;
+  color: #00C6C0;
 }
 .saved-imgs > ul > li .text > .fas {
   font-size: 2rem;

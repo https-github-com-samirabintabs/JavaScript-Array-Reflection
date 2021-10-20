@@ -1,21 +1,21 @@
 {
   "name": "web-development",
   "version": "1.0.0",
-  "description": "Netmatters HTML & CSS Reflection",
+  "description": "JavaScrip Array Reflection",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DylanS97/Web-Development.git"
+    "url": "git+https://github.com/SamirabintABS/JavaScript-Array-Reflection.git"
   },
-  "author": "Dylan Stevenson",
+  "author": "Samira Begum",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DylanS97/Web-Development/issues"
+    "url": "https://github.com/SamirabintABS/JavaScript-Array-Reflection/issues"
   },
-  "homepage": "https://github.com/DylanS97/Web-Development#readme",
+  "homepage": "https://github.com/SamirabintABS/JavaScript-Array-Reflection#readme",
   "devDependencies": {
     "@babel/core": "^7.14.3",
     "@babel/plugin-transform-arrow-functions": "^7.13.0",
